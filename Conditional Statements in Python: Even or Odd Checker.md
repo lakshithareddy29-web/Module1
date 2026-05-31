@@ -13,16 +13,17 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
+a=int(input())
 
-num = int(input("Enter a number: "))
-
-if num % 2 == 0:
-    print("The number is Even")
+if a%2==0:
+    print("EVEN")
+    
 else:
-    print("The number is Odd")
+    print("ODD")
+
 ## Output
-Enter a number: 8
-The number is Even
+<img width="828" height="457" alt="image" src="https://github.com/user-attachments/assets/5fcfe898-b9c9-4d98-a368-75b4bcea8ea9" />
+
 ## Result
 If the input number is divisible by 2 → Even
 If not divisible by 2 → Odd
