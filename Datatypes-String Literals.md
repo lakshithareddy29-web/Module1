@@ -10,12 +10,12 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
 
-text = input("Enter a string: ")
-print("You entered:", text)
 ## Output
-Enter a string: Hello World
-You entered: Hello World
+![Uploading image.png…]()
+
 ## Result
 The program successfully reads a string using input().
 It then prints the same string using print().
